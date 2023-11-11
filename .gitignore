@@ -32,6 +32,3 @@
 
 # Ignoew node files
 /node_modules
-
-# Ignore local database config file
-/config/database.yml

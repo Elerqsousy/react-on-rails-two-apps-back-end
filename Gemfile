@@ -45,3 +45,6 @@ group :development do
   # gem "spring"
   gem 'rubocop', '>= 1.0', '< 2.0'
 end
+
+# Cross-Origin Resource Sharing (CORS)
+gem 'rack-cors'
